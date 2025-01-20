@@ -31,8 +31,8 @@ Before running the application, ensure you have the following installed:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/virtual-painter.git
-   cd virtual-painter
+   git clone https://github.com/nazifmhd/Virtual_Painter.git
+   cd Virtual_Painter
    ```
 2. Install the required Python packages:
    ```bash
@@ -43,7 +43,7 @@ Before running the application, ensure you have the following installed:
 
 1. Run the application:
    ```bash
-   python virtual_painter.py
+   python Virtual_Painter.py
    ```
 2. A video feed will open, and the GUI will display buttons for saving and loading drawings.
 3. Use your index finger to draw on the canvas.
@@ -57,7 +57,7 @@ Before running the application, ensure you have the following installed:
 
 ## File Structure
 
-- `virtual_painter.py`: Main Python script containing the application logic.
+- `Virtual_Painter.py`: Main Python script containing the application logic.
 - `README.md`: Documentation file for the project.
 
 ## Example Gestures
