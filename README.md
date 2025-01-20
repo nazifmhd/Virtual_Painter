@@ -67,7 +67,7 @@ Before running the application, ensure you have the following installed:
 
 ## Screenshots
 
-![Virtual Painter Interface](path/to/screenshot.png)  
+![Virtual Painter Interface](https://github.com/nazifmhd/Virtual_Painter/blob/main/image.png)  
 *A screenshot of the application showing real-time drawing.*
 
 ## Troubleshooting
